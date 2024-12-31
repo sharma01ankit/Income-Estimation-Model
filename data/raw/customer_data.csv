@@ -1,0 +1,6 @@
+CustomerID,Age,MaritalStatus,Geolocation,TransactionPattern,CreditHistory,IsSalaried,Income
+1,35,Married,"18.5204,73.8567",High,Good,1,850000
+2,29,Single,"18.5310,73.8470",Medium,Fair,0,
+3,42,Married,"18.5103,73.8285",Low,Poor,0,
+4,50,Single,"18.5133,73.8452",High,Excellent,1,1200000
+5,27,Single,"18.5176,73.8560",Medium,Fair,0,
